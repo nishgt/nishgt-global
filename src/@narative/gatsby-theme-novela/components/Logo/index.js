@@ -1,5 +1,5 @@
 import React from 'react';
-
+import bear from './bear.png';
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
@@ -9,10 +9,12 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-    <svg viewBox="0 0 106 28" height="30px">
-      <path d="M62.9 12h2.8v10...." />
-      <path fill={fill} d="M25 14h-..." />
-      <path d="M14 0C6.3..." fill="#639" />
-    </svg>
+    <img
+    width="100"
+    height="100"
+    fill={'primary'}
+    src={bear}
+    alt="nishgt-logo"
+  />
   );
 }

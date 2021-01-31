@@ -1,5 +1,5 @@
 import React from 'react';
-import bear from './bear.png';
+import logo from './bear.png';
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
@@ -13,8 +13,11 @@ export default function Logo({ fill }) {
     width="100"
     height="100"
     fill={'primary'}
-    src={bear}
+    src={logo}
     alt="nishgt-logo"
   />
   );
 }
+// TODO: Omer buradaki logo degisecek
+// 1- bear.png silip kendi logonu ekle.
+// 2- bu dosya icerisinde import konumunu degistir

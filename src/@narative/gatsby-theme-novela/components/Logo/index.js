@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './bear.png';
+import logo from './logo.png';
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
@@ -18,6 +18,3 @@ export default function Logo({ fill }) {
   />
   );
 }
-// TODO: Omer buradaki logo degisecek
-// 1- bear.png silip kendi logonu ekle.
-// 2- bu dosya icerisinde import konumunu degistir

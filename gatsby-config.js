@@ -11,7 +11,23 @@ module.exports = {
     social: [
       {
         name: `github`,
-        url: `https://github.com/sdtrdev/nishgt-global`,
+        url: `https://github.com/nishgt`,
+      },
+      {
+        name: `instagram`,
+        url: `https://instagram.com/nishgt2021`,
+      },
+      {
+        name: `twitter`,
+        url: `https://twitter.com/nishgt`,
+      },
+      {
+        name: `behance`,
+        url: `https://behance.net/nishgt`,
+      },
+      {
+        name: `youtube`,
+        url: `https://www.youtube.com/channel/UCdwXaVSjaVJn7voSY9Ugd5Q`,
       },
     ],
   },

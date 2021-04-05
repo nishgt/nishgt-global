@@ -4,7 +4,7 @@ author: Kardelen Büyük
 date: 2020-04-05
 hero: ./images/b.jpg
 excerpt: Asıl adı László Weisz Moholo-Nagy olan László, ressam, desinatör, fotoğrafçı, akademisyen ve teorisyen Macar-Amerikalı bir sanatçıdır.
-secret: true
+secret: false
 ---
 
 Asıl adı László Weisz Moholo-Nagy olan László, ressam, desinatör, fotoğrafçı, akademisyen ve teorisyen Macar-Amerikalı bir sanatçıdır.

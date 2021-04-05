@@ -1,7 +1,7 @@
 ---
 title: Laszlo Moholy Nagy Kimdir?
 author: Kardelen Büyük
-date: 2020-04-05
+date: 2021-04-05
 hero: ./images/b.jpg
 excerpt: Asıl adı László Weisz Moholo-Nagy olan László, ressam, desinatör, fotoğrafçı, akademisyen ve teorisyen Macar-Amerikalı bir sanatçıdır.
 secret: false

@@ -69,3 +69,7 @@ yarn-error.log
 .yarn-integrity
 
 .netlify/
+
+# Automatic Nishgt
+.git_engine/*
+beginnerGit.sh

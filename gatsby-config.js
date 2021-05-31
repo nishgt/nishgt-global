@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/nish.gt`,
+        url: `https://instagram.com/nishgt.art`,
       },
       {
         name: `twitter`,

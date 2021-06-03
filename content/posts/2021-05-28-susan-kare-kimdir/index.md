@@ -35,6 +35,6 @@ Kare, mühendisler için özel bir alan olan teknoloji endüstrisi klişesine ka
 
 Yepyeni bir yazı ile sizlerleydim. Tekrar görüşmek üzere...
 
-Kaynakça: [nishgt-posts archive](https://github.com/nishgt/nishgt-posts/blob/master/2021-05-28-susan-kare-kimdir/2021-05-27-Suzan-Kare-Kimdir/kaynakca.txt)
+Kaynakça: [nishgt-posts archive](https://github.com/nishgt/nishgt-posts/blob/master/2021-05-28-susan-kare-kimdir/kaynakca.txt)
 
 Özlem Uçkun
